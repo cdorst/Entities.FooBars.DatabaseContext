@@ -15,11 +15,11 @@
     <PackageLicenseUrl>https://github.com/cdorst/Entities.FooBars.DatabaseContext/blob/master/LICENSE</PackageLicenseUrl>
     <PackageProjectUrl>https://github.com/cdorst/Entities.FooBars.DatabaseContext</PackageProjectUrl>
     <RepositoryUrl>https://github.com/cdorst/Entities.FooBars.DatabaseContext</RepositoryUrl>
-    <Version>1.0.12</Version>
+    <Version>1.0.13</Version>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="CDorst.Entities.FooBars" Version="1.0.12" />
+    <PackageReference Include="CDorst.Entities.FooBars" Version="1.0.13" />
     <PackageReference Include="CDorst.DevOps.Code.Entities.Metapackages.EntityFrameworkCore" Version="1.0.4" />
   </ItemGroup>
 
