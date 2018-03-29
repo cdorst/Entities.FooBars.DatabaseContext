@@ -24,10 +24,11 @@ Name | Status
 
 ## Dependents
 
-The project below uses this repository as a direct dependency.
+The projects below use this repository as a direct dependency.
 
 Name | Status
 ---- | ------
+[Entities.FooBars.ApiController](https://github.com/CDorst/Entities.FooBars.ApiController) | [![AppVeyor build status](https://img.shields.io/appveyor/ci/cdorst/entities-foobars-apicontroller.svg?label=AppVeyor&style=flat-square)](https://ci.appveyor.com/project/cdorst/entities-foobars-apicontroller) [![NuGet package status](https://img.shields.io/nuget/v/CDorst.Entities.FooBars.ApiController.svg?label=NuGet&style=flat-square)](https://www.nuget.org/packages/CDorst.Entities.FooBars.ApiController)
 [Entities.StaticFooBars.DatabaseContext](https://github.com/CDorst/Entities.StaticFooBars.DatabaseContext) | [![AppVeyor build status](https://img.shields.io/appveyor/ci/cdorst/entities-staticfoobars-databasecontext.svg?label=AppVeyor&style=flat-square)](https://ci.appveyor.com/project/cdorst/entities-staticfoobars-databasecontext) [![NuGet package status](https://img.shields.io/nuget/v/CDorst.Entities.StaticFooBars.DatabaseContext.svg?label=NuGet&style=flat-square)](https://www.nuget.org/packages/CDorst.Entities.StaticFooBars.DatabaseContext)
 
 ## NuGet
@@ -37,7 +38,7 @@ This project is published as a NuGet package at [https://www.nuget.org/packages/
 
 ## Version
 
-1.0.13
+1.0.14
 
 ## Metaproject
 
